@@ -1,6 +1,6 @@
 {
-    "latest_version":  "2.6.4",
-    "download_url":  "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.4/tg_trade_manager_2.6.4.zip",
-    "sha256":  "8BE0475CC98D52E1D72204774E42B171CBD0AA0B5A75F7C21685C7F5BF1C1A18",
-    "release_notes":  "Release 2.6.4 - Fix channel filtering safety for enabled channels"
+  "latest_version": "2.6.5",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.5/tg_trade_manager_2.6.5.zip",
+  "sha256": "98AA8FE4F25117751F3040D9F4470A418AA4A0B01A7B7526EF5A7BEC0A4E9C57",
+  "release_notes": "Release 2.6.5 - Fix in-app updater install reliability on Windows"
 }
