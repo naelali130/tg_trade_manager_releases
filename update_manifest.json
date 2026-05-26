@@ -2,7 +2,7 @@
   "current_version": "2.6.2",
   "latest_version": "2.6.2",
   "download_url": "https://raw.githubusercontent.com/naelali130/tg_trade_manager_releases/main/tg_trade_manager_vps_2.6.2_with_copy_ui.zip",
-  "sha256": "3A5456221F86FBFD4E73CE8E4B0E8F93E01E561A4DBAF87106623B2630422EA4",
+  "sha256": "F58CC868A50ED9BD4389B2FD20140C548D0D97A9E5A98D21BEB3BD052B31487A",
   "source": "github",
   "notes": "Added copyable UI text, table copy actions, row JSON copy, and Arabic/English copy menu labels."
 }
