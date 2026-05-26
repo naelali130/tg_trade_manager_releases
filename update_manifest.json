@@ -1,0 +1,12 @@
+{
+  "latest_version": "2.6.1",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.1/tg_trade_manager_2.6.1.zip",
+  "sha256": "6096BDD696B2D4D68C7186A0ADC27BEBED176E74E9F4477A4CB808B13BC189CD",
+  "release_notes": [
+    "Application Update tab inside Settings",
+    "GitHub / Local ZIP update source selection",
+    "Improved update UI layout",
+    "Version bump to 2.6.1"
+  ],
+  "mandatory": false
+}
