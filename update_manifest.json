@@ -1,6 +1,6 @@
 ﻿{
-  "latest_version": "2.6.5",
-  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.5/tg_trade_manager_2.6.5.zip",
-  "sha256": "98AA8FE4F25117751F3040D9F4470A418AA4A0B01A7B7526EF5A7BEC0A4E9C57",
-  "release_notes": "Release 2.6.5 - Fix in-app updater install reliability on Windows"
+  "latest_version": "2.6.6",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.6/tg_trade_manager_2.6.6.zip",
+  "sha256": "340F8BF82CA215711F60348F3216397F05319DB992CC5AF6D44951E61020C8F9",
+  "release_notes": "Release 2.6.6 - Verify fixed in-app updater install flow from 2.6.5"
 }
