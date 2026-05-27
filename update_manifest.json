@@ -1,6 +1,6 @@
 ﻿{
-  "latest_version": "2.6.7",
-  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.7/tg_trade_manager_2.6.7.zip",
+  "latest_version": "2.6.8",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.8/tg_trade_manager_2.6.8.zip",
   "sha256": "39B59B481191775699B57AB486DABFD1A3A9F2BF2E80940897AC2FA3F4CF9863",
-  "release_notes": "Release 2.6.7 - Fix numeric market BUY/SELL signals being incorrectly inferred or sent as pending orders. GOLD SELL 4445 now remains SELL_MARKET unless explicit LIMIT/STOP or documented Smart Entry conversion exists."
+  "release_notes": "Release 2.6.8 - Fix numeric market BUY/SELL signals being incorrectly inferred or sent as pending orders. GOLD SELL 4445 now remains SELL_MARKET unless explicit LIMIT/STOP or documented Smart Entry conversion exists."
 }
