@@ -1,6 +1,6 @@
 ﻿{
-  "latest_version": "2.6.9",
-  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.9/tg_trade_manager_2.6.9.zip",
-  "sha256": "E33223C5D0EDE23FD80812D548AD0E6285E0659A89468CB8C4A9F8FAB53FD796",
-  "release_notes": "Release 2.6.9 - Fix numeric market BUY/SELL signals being incorrectly inferred or sent as pending orders. Repackaged update ZIP with the required app folder for the in-app updater."
+  "latest_version": "2.6.10",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.10/tg_trade_manager_2.6.10.zip",
+  "sha256": "PUT_SHA256_HERE",
+  "release_notes": "Release 2.6.10 - Fix numeric market BUY/SELL signals being incorrectly inferred or sent as pending orders. Repackaged update ZIP with required top-level app folder for the in-app updater."
 }
