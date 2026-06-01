@@ -1,13 +1,15 @@
-﻿{
-  "latest_version": "2.6.12",
+{
+  "latest_version": "2.6.13",
   "channel": "stable",
-  "package_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.12/tg_trade_manager_2.6.12.zip",
-  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.12/tg_trade_manager_2.6.12.zip",
-  "sha256": "D635CD963831FA37E9851ECA2F9B6920B489292F98C6FD0C6FA3075D42DDF749",
+  "package_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.13/tg_trade_manager_2.6.13.zip",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.13/tg_trade_manager_2.6.13.zip",
+  "sha256": "228faee4769ec1cadaf31b3fcb992a84b21faa1be24551f23985039bb7da4e8a",
   "release_notes": [
-    "Improve GitHub Release updater install flow.",
-    "Support safe production ZIP format with app/tg_trade_manager.exe and app/_internal/.",
-    "Add safer backup and rollback behavior during update installation."
+    "Production updater release v2.6.13.",
+    "Dashboard LIVE banner now shows green when LIVE trading is active.",
+    "Removed the Duplicate Signal Protection warning banner from the Dashboard (UI only).",
+    "GitHub Release updater now supports both app/ and direct-root ZIP layouts with safe backup and rollback.",
+    "No trading execution logic changed during release creation."
   ],
   "mandatory": false
 }
