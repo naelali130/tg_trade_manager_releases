@@ -1,15 +1,7 @@
-{
-  "latest_version": "2.6.14",
-  "channel": "stable",
-  "package_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.14/tg_trade_manager_2.6.14.zip",
-  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.14/tg_trade_manager_2.6.14.zip",
-  "sha256": "7bd1590148d38c82cb1598e75f51542f496edf0d84765dc7022639508aba5d51",
-  "release_notes": [
-    "In-app updater installer hardened: bounded process-exit wait (no more freeze on Install).",
-    "File-lock retries before replacing the runtime, plus post-copy verification and rollback.",
-    "Visible PowerShell install logs and guaranteed app shutdown so updates apply reliably.",
-    "Only tg_trade_manager.exe and _internal/ are replaced; user data is preserved.",
-    "No trading execution logic changed during release creation."
-  ],
+﻿{
+  "version": "2.6.15",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.15/tg_trade_manager_2.6.15.zip",
+  "sha256": "0C071AF3EBBE8B8105B9D1CE966949AFF7534898CF9FD5A1B00395B31F0D609B",
+  "release_notes": "UI/report formatting update: displayed Gold prices now use two decimals across the app.",
   "mandatory": false
 }
