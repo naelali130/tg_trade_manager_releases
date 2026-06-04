@@ -1,7 +1,7 @@
 {
-    "download_url":  "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.16/tg_trade_manager_v2.6.16.zip",
-    "notes":  "English Image Signal Detection with OCR readiness. Feature disabled by default. Pixel OCR requires installed Tesseract path.",
-    "sha256":  "16A19947253B5A9522DA8628194DB5B11AFA7C182B7D3399F9F1C3ECFA8FE029",
-    "version":  "2.6.16",
-    "latest_version":  "2.6.16"
+  "latest_version": "2.6.17",
+  "version": "2.6.17",
+  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.17/tg_trade_manager_v2.6.17.zip",
+  "sha256": "4D937BC3E223E0B355C12338F4BED9B6C5D12E335EE4D2A4A725625EE8587014",
+  "notes": "v2.6.17 bundles portable English OCR runtime. Tesseract installer is not required. Image signal detection remains disabled by default."
 }
