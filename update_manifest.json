@@ -1,8 +1,7 @@
-{
-  "latest_version": "2.6.15",
-  "version": "2.6.15",
-  "download_url": "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.15/tg_trade_manager_2.6.15.zip",
-  "sha256": "0C071AF3EBBE8B8105B9D1CE966949AFF7534898CF9FD5A1B00395B31F0D609B",
-  "release_notes": "UI/report formatting update: displayed Gold prices now use two decimals across the app.",
-  "mandatory": false
+﻿{
+    "download_url":  "https://github.com/naelali130/tg_trade_manager_releases/releases/download/v2.6.16/tg_trade_manager_v2.6.16.zip",
+    "notes":  "English Image Signal Detection with OCR readiness. Feature disabled by default. Pixel OCR requires installed Tesseract path.",
+    "sha256":  "16A19947253B5A9522DA8628194DB5B11AFA7C182B7D3399F9F1C3ECFA8FE029",
+    "version":  "2.6.16",
+    "latest_version":  "2.6.16"
 }
